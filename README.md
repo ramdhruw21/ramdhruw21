@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramdhruw21&label=Profile%20views&color=0e75b6&style=flat" alt="ramdhruw21" /> </p>
 
-- 🌱 I’m currently learning **Android Developement(kotlin)**
+- 🌱 I’m currently learning **Android Developement(Kotlin)**
 
 - 💬 Ask me about **Java Programming, Android, Kotlin**
 
