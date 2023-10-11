@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Ramji Dhruw</h1>
 <h3 align="center">❤️A passionate android developer from India❤️</h3>
 <br />
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ramdhruw21&label=Profile%20views&color=0e75b6&style=flat" alt="ramdhruw21" /></p>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 - 🌱 I’m currently learning **Android Developement(Kotlin)**
 
