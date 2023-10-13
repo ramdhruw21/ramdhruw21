@@ -7,6 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
+
 - 🌱 I’m currently learning **Android Developement(Kotlin)**
 
 - 💬 Ask me about **Java Programming, Android, Kotlin**
